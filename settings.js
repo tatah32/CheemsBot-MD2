@@ -21,16 +21,16 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
-global.ownernomer = '916909137213'
-global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
-global.footer = 'Xeon Bot Inc.'
-global.ig = 'https://github.com/DGXeon'
+global.owner = ['6281235003849']
+global.premium = ['6289668014332',6287858772963','6281235003849']
+global.ownernomer = '6289668014332'
+global.ownername = 'Tata'
+global.botname = 'Google Bot'
+global.footer = 'Google Inc.'
+global.ig = 'https://github.com/'
 global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
-global.myweb = 'https://youtu.be/imFIX-Wrt3s'
+global.sc = 'https://github.com/'
+global.myweb = 'https://youtu.be/'
 global.packname = 'Cheems Bot'
 global.author = '🦄Dream Guy Xeon'
 global.sessionName = 'session'
@@ -50,7 +50,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 22,
     monayawal: 1000
 }
    global.rpg = {
